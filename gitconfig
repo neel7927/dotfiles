@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = neel7927@gmail.com
+	name = Neelesh Naraynen
